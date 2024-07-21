@@ -1,6 +1,12 @@
 # JS Digital Clock
 
 This project is a digital clock web application built using HTML, CSS, and JavaScript. It displays the current time with hours, minutes, and seconds, updating every second [TRY NOW!](https://qyuzet.github.io/js-digital-clock).
+
+
+![image](https://github.com/user-attachments/assets/b9c37383-62fd-4cec-92cd-2f9798b09424)
+
+
+
 ## Features
 
 - **Real-Time Clock**: Displays the current hours, minutes, and seconds.
